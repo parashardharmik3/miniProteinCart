@@ -1,0 +1,106 @@
+{
+    "proteins": [
+      {
+        "id": 1,
+        "name": "Whey Protein",
+        "brand": "MuscleBlaze",
+        "price": 45.99,
+        "flavor": "Double Rich Chocolate",
+        "weight": "2 lbs",
+        "picture": "./public/protein.webp",
+        "description": "High-quality whey protein isolate, primary source."
+      },
+      {
+        "id": 2,
+        "name": "Casein Protein",
+        "brand": "MuscleBlaze",
+        "price": 42.99,
+        "flavor": "Cookies and Cream",
+        "weight": "4 lbs",
+        "picture": "./public/protein1.webp",
+        "description": "Slow-digesting protein for overnight recovery."
+      },
+      {
+        "id": 3,
+        "name": "Soy Protein",
+        "brand": "MuscleBlaze",
+        "price": 24.99,
+        "flavor": "Natural",
+        "weight": "2 lbs",
+        "picture": "./public/protein2.webp",
+        "description": "Vegetarian protein source with a complete amino acid profile."
+      },
+      {
+        "id": 4,
+        "name": "Pea Protein",
+        "brand": "MuscleBlaze",
+        "price": 29.99,
+        "flavor": "Unflavored",
+        "weight": "2.2 lbs",
+        "picture": "./public/protein.webp",
+        "description": "High-quality, easily digestible plant protein."
+      },
+      {
+        "id": 5,
+        "name": "Hemp Protein",
+        "brand": "MuscleBlaze",
+        "price": 21.99,
+        "flavor": "Vanilla",
+        "weight": "3 lbs",
+        "picture": "./public/protein1.webp",
+        "description": "Organic hemp protein with fiber and omega-3s."
+      },
+      {
+        "id": 6,
+        "name": "Egg White Protein",
+        "brand": "MuscleBlaze",
+        "price": 39.99,
+        "flavor": "Strawberry",
+        "weight": "2 lbs",
+        "picture": "./public/protein2.webp",
+        "description": "High-quality protein from egg whites, low carb."
+      },
+      {
+        "id": 7,
+        "name": "Collagen Protein",
+        "brand": "MuscleBlaze",
+        "price": 34.99,
+        "flavor": "Unflavored",
+        "weight": "1.25 lbs",
+        "picture": "./public/protein.webp",
+        "description": "Supports hair, skin, nails, and joints."
+      },
+      {
+        "id": 8,
+        "name": "Beef Protein",
+        "brand": "MuscleBlaze",
+        "price": 49.99,
+        "flavor": "Chocolate",
+        "weight": "2 lbs",
+        "picture": "./public/protein1.webp",
+        "description": "High-quality protein derived from beef isolate."
+      },
+      {
+        "id": 9,
+        "name": "Mixed Plant Protein",
+        "brand": "MuscleBlaze",
+        "price": 37.99,
+        "flavor": "Vanilla",
+        "weight": "2.5 lbs",
+        "picture": "./public/protein2.webp",
+        "description": "Blend of pea, brown rice, and chia proteins."
+      },
+      {
+        "id": 10,
+        "name": "Rice Protein",
+        "brand": "MuscleBlaze",
+        "price": 26.99,
+        "flavor": "Chocolate",
+        "weight": "3 lbs",
+        "picture": "./public/protein.webp",
+        "description": "Hypoallergenic protein made from whole grain brown rice."
+      }
+    ]
+  }
+  
+  

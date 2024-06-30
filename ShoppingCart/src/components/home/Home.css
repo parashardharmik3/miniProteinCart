@@ -1,0 +1,32 @@
+.Home{
+    height: 30rem;
+    width: 100%;   
+}
+.cardImage{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    width: 14rem;
+    height: 18rem;
+    object-fit: cover;
+}
+.card{
+    border-radius: 12px;
+    border: solid black;
+    width: 14rem;
+    height: 25rem;
+}
+.description{
+    width: 14rem;
+}
+.btnContainer{
+    height: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.9rem;
+}
+.homeContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }

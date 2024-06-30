@@ -1,0 +1,46 @@
+.header{
+    background-color: #50b2c0;
+    height: 3.5rem;
+}
+
+.links{
+    height: 3.5rem;
+    width: 35rem;
+}
+.logo{
+    height: 3rem;
+    width: 3rem;
+}
+.individual{
+    height: 3rem;
+    width: 5rem;
+}
+.mode{
+    height: 2.4rem;
+    width: 2.4rem;
+}
+.cart {
+    position: relative;
+    height: 2rem;
+    width: 2rem;
+  }
+  
+  .cartIcon {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .notification {
+    position: absolute;
+    top: -1px; /* Example top position */
+    right: -4px; /* Example right position */
+    height: 14px;
+    width: 18px;
+    background-color: red; /* Example background color for notification */
+    border-radius: 50%; /* Make it circular */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Example text color */
+    font-size: 12px;
+  }
